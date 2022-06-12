@@ -1,0 +1,14 @@
+{
+	"license": "MIT",
+	"type": "tool",
+	"require": {
+		"ergebnis/composer-normalize": ">=2.28.3",
+		"overtrue/phplint": ">=3.4.0"
+	},
+	"config": {
+		"allow-plugins": {
+			"ergebnis/composer-normalize": true
+		},
+		"sort-packages": true
+	}
+}
