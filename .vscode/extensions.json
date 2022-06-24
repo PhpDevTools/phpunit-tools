@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "bmewburn.vscode-intelephense-client",
+        "davidanson.vscode-markdownlint",
+        "editorconfig.editorconfig",
+        "eamodio.gitlens"
+    ]
+}

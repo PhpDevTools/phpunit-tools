@@ -1,0 +1,9 @@
+parameters:
+	level: max
+	checkMissingIterableValueType: true
+	treatPhpDocTypesAsCertain: false
+
+	paths:
+		- build
+		- src
+		- tests

@@ -1,0 +1,12 @@
+# Folders
+/public
+/var
+/vendor
+
+# Files
+/.php-cs-fixer.cache
+/.php-cs-fixer.php
+/.phplint-cache
+/.phpunit.result.cache
+/composer.lock
+/phpstan.neon
