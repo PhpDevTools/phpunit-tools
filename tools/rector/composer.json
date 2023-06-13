@@ -1,0 +1,14 @@
+{
+	"license": "MIT",
+	"type": "tool",
+	"require": {
+		"ergebnis/composer-normalize": ">=2.28.3",
+		"rector/rector": ">=0.16.0"
+	},
+	"config": {
+		"allow-plugins": {
+			"ergebnis/composer-normalize": true
+		},
+		"sort-packages": true
+	}
+}

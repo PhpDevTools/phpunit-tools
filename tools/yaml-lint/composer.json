@@ -1,0 +1,15 @@
+{
+	"license": "MIT",
+	"type": "tool",
+	"require": {
+		"ergebnis/composer-normalize": ">=2.28.3",
+		"symfony/console": ">=5.4.24",
+		"symfony/yaml": ">=5.4.23"
+	},
+	"config": {
+		"allow-plugins": {
+			"ergebnis/composer-normalize": true
+		},
+		"sort-packages": true
+	}
+}

@@ -1,0 +1,19 @@
+# Folders and files ignored for export
+/.* export-ignore
+/build export-ignore
+/tests export-ignore
+/tools export-ignore
+/phpstan.dist.neon export-ignore
+/phpunit.xml export-ignore
+/rector.php export-ignore
+
+# Enforce checkout with linux lf consistent over all platforms
+* text=auto eol=lf
+*.json text eol=lf
+*.php text eol=lf
+*.md text eol=lf
+*.neon text eol=lf
+*.txt text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+*.xml text eol=lf
